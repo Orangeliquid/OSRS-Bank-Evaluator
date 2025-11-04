@@ -1,0 +1,25 @@
+__pycache__/
+*.py[oc]
+*.pyc
+.idea/
+build/
+dist/
+wheels/
+*.egg-info
+
+
+# Virtual environments
+.venv/
+.env/
+pyvenv.cfg
+Lib/
+Scripts/
+
+# Streamlit
+.streamlit/*
+!.streamlit/config.toml
+
+# data
+data/*
+!data/
+!data/2013-data.json
