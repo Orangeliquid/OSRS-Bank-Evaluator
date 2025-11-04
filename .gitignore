@@ -23,3 +23,5 @@ Scripts/
 data/*
 !data/
 !data/2013-data.json
+cache/*
+Bank_Data.db
