@@ -20,8 +20,7 @@ Scripts/
 !.streamlit/config.toml
 
 # data
-data/*
-!data/
-!data/2013-data.json
 cache/*
 Bank_Data.db
+items/first_snapshot.json
+items/first_snapshot.txt
