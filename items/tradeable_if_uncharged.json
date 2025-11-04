@@ -1,0 +1,129 @@
+{
+  "12931": "12929",  // Serpentine helm charged -> Serpentine helm uncharged
+  "13197": "12929",  // Tanz helm charged -> Serpentine helm uncharged
+  "13196": "12929",  // Tanz helm uncharged -> Serpentine helm uncharged
+  "13199": "12929",  // Magma helm charged -> Serpentine helm uncharged
+  "13198": "12929",  // Magma helm uncharged -> Serpentine helm uncharged
+  "23595": "6737",  // Berserker ring (Last Man Standing) -> Berserker ring
+  "26770": "6737",  // Berserker ring (i)#Emir's Arena -> Berserker ring
+  "11773": "6737",  // Berserker ring (i)#Nightmare Zone  -> Berserker ring
+  "25264": "6737",  // Berserker ring (i)#Soul Wars -> Berserker ring
+  "26768": "6733",  // Archers ring (i)#Emir's Arena -> Archers ring
+  "11771": "6733",  // Archers ring (i)#Nightmare Zone -> Archers ring
+  "25260": "6733",  // Archers ring (i)#Soul Wars -> Archers ring
+  "23624": "6731",  // Seers ring (i) (Last Man Standing) -> Seers ring
+  "26767": "6731",  // Seers ring (i)#Emir's Arena -> Seers ring
+  "11770": "6731",  // Seers ring (i)#Nightmare Zone -> Seers ring
+  "25258": "6731",  // Seers ring (i)#Soul Wars -> Seers ring
+  "11283": "11284",  // Dragonfire shield charged -> Dragonfire shield uncharged
+  "20657": "19550",  // Ring of suffering (i)#Recoil -> Ring of suffering uncharged
+  "25248": "19550",  // Ring of suffering (i)#Recoil -> Ring of suffering uncharged
+  "26762": "19550",  // Ring of suffering (i)#Recoil -> Ring of suffering uncharged
+  "26761": "19550",  // Ring of suffering (i)#Uncharged -> Ring of suffering uncharged
+  "19710": "19550",  // Ring of suffering (i)#Uncharged -> Ring of suffering uncharged
+  "25246": "19550",  // Ring of suffering (i)#Uncharged -> Ring of suffering uncharged
+  "20655": "19550",  // Ring of suffering#Uncharged -> Ring of suffering uncharged
+  "26482": "4151",  // Abyssal whip (or) -> Abyssal whip
+  "12774": "4151",  // Fronze abyssal whip -> Abyssal whip
+  "12773": "4151",  // Volcanic abyssal whip -> Abyssal whip
+  "29591": "29580",  // Scorching bow -> Tormented synapse
+  "29589": "29580",  // Emberlight -> Tormented synapse
+  "29594": "29580",  // Purging Staff -> Tormented synapse
+  "22323": "22481",  // Sanguinesti staff charged -> Sanguinesti staff uncharged
+  "25731": "22481",  // Holy sanguinesti staff#Charged -> Sanguinesti staff uncharged
+  "25733": "22481",  // Holy sanguinesti staff#Uncharged -> Sanguinesti staff uncharged
+  "12926": "12924",  // Toxic blowpipe#Charged -> Toxic blowpipe empty
+  "22292": "22294",  // Trident of the swamp (e)#Charged -> Trident of the swamp (e)#Uncharged
+  "12899": "12900",  // Trident of the swamp #Charged -> Trident of the swamp #Uncharged
+  "31113": "31115",  // Eye of ayak charged -> Eye of ayak uncharged
+  "26948": "26945",  // Pharaoh's sceptre#Charged -> Pharaoh's sceptre uncharged
+  "26950": "26945",  // Pharaoh's sceptre#Charged -> Pharaoh's sceptre uncharged
+  "30064": "30066",  // Tome of earth charged -> Tome of earch empty
+  "26765": "12603",  // Tyrannical ring (i)#Emir's Arena -> Tyrannical ring
+  "12691": "12603",  // Tyrannical ring (i)#Nightmare Zone-> Tyrannical ring
+  "25254": "12603",  // Tyrannical ring (i)#Soul Wars -> Tyrannical ring
+  "12806": "11924",  // Malediction ward(or) -> Malediction ward -> loss of kit if dismantled
+  "27275": "27277",  // Tumeken's Shadow Charged -> Tumeken's Shadow uncharged
+  "4886": "4718",  // Dharok's Greataxe 100 -> Dharok's Greataxe undamaged
+  "4887": "4718",  // Dharok's Greataxe 75 -> Dharok's Greataxe undamaged
+  "4888": "4718",  // Dharok's Greataxe 50 -> Dharok's Greataxe undamaged
+  "4889": "4718",  // Dharok's Greataxe 25 -> Dharok's Greataxe undamaged
+  "4880": "4716",  // Dharok's Helm 100 -> Dharok's Helm undamaged
+  "4881": "4716",  // Dharok's Helm 75 -> Dharok's Helm undamaged
+  "4882": "4716",  // Dharok's Helm 50 -> Dharok's Helm undamaged
+  "4883": "4716",  // Dharok's Helm 25 -> Dharok's Helm undamaged
+  "4892": "4720",  // Dharok's Platebody 100 -> Dharok's Platebody undamaged
+  "4893": "4720",  // Dharok's Platebody 75 -> Dharok's Platebody undamaged
+  "4894": "4720",  // Dharok's Platebody 50 -> Dharok's Platebody undamaged
+  "4895": "4720",  // Dharok's Platebody 25 -> Dharok's Platebody undamaged
+  "4898": "4722",  // Dharok's Platelegs 100 -> Dharok's Platelegs undamaged
+  "4899": "4722",  // Dharok's Platelegs 75 -> Dharok's Platelegs undamaged
+  "4900": "4722",  // Dharok's Platelegs 50 -> Dharok's Platelegs undamaged
+  "4901": "4722",  // Dharok's Platelegs 25 -> Dharok's Platelegs undamaged
+  "4958": "4747",  // Torag's Hammer 100 -> Torag's Hammer undamaged
+  "4959": "4747",  // Torag's Hammer 75 -> Torag's Hammer undamaged
+  "4960": "4747",  // Torag's Hammer 50 -> Torag's Hammer undamaged
+  "4961": "4747",  // Torag's Hammer 25 -> Torag's Hammer undamaged
+  "4952": "4745",  // Torag's Helm 100 -> Torag's Helm undamaged
+  "4953": "4745",  // Torag's Helm 75 -> Torag's Helm undamaged
+  "4954": "4745",  // Torag's Helm 50 -> Torag's Helm undamaged
+  "4955": "4745",  // Torag's Helm 25 -> Torag's Helm undamaged
+  "4964": "4749",  // Torag's Platebody 100 -> Torag's Platebody undamaged
+  "4965": "4749",  // Torag's Platebody 75 -> Torag's Platebody undamaged
+  "4966": "4749",  // Torag's Platebody 50 -> Torag's Platebody undamaged
+  "4967": "4749",  // Torag's Platebody 25 -> Torag's Platebody undamaged
+  "4970": "4751",  // Torag's Platelegs 100 -> Torag's Platelegs undamaged
+  "4971": "4751",  // Torag's Platelegs 75 -> Torag's Platelegs undamaged
+  "4972": "4751",  // Torag's Platelegs 50 -> Torag's Platelegs undamaged
+  "4973": "4751",  // Torag's Platelegs 25 -> Torag's Platelegs undamaged
+  "4910": "4726",  // Guthan's Warspear 100 -> Guthan's Warspear undamaged
+  "4911": "4726",  // Guthan's Warspear 75 -> Guthan's Warspear undamaged
+  "4912": "4726",  // Guthan's Warspear 50 -> Guthan's Warspear undamaged
+  "4913": "4726",  // Guthan's Warspear 25 -> Guthan's Warspear undamaged
+  "4922": "4730",  // Guthan's Chainskirt 100 -> Guthan's Chainskirt undamaged
+  "4923": "4730",  // Guthan's Chainskirt 75 -> Guthan's Chainskirt undamaged
+  "4924": "4730",  // Guthan's Chainskirt 50 -> Guthan's Chainskirt undamaged
+  "4925": "4730",  // Guthan's Chainskirt 25 -> Guthan's Chainskirt undamaged
+  "4904": "4724",  // Guthan's Helm 100 -> Guthan's Helm undamaged
+  "4905": "4724",  // Guthan's Helm 75 -> Guthan's Helm undamaged
+  "4906": "4724",  // Guthan's Helm 50 -> Guthan's Helm undamaged
+  "4907": "4724",  // Guthan's Helm 25 -> Guthan's Helm undamaged
+  "4916": "4728",  // Guthan's Platebody 100 -> Guthan's Platebody undamaged
+  "4917": "4728",  // Guthan's Platebody 75 -> Guthan's Platebody undamaged
+  "4918": "4728",  // Guthan's Platebody 50 -> Guthan's Platebody undamaged
+  "4919": "4728",  // Guthan's Platebody 25 -> Guthan's Platebody undamaged
+  "4934": "4734",  // Karil's Crossbow 100 -> Karil's Crossbow undamaged
+  "4935": "4734",  // Karil's Crossbow 75 -> Karil's Crossbow undamaged
+  "4936": "4734",  // Karil's Crossbow 50 -> Karil's Crossbow undamaged
+  "4937": "4734",  // Karil's Crossbow 25 -> Karil's Crossbow undamaged
+  "4928": "4732",  // Karil's Coif 100 -> Karil's Coif undamaged
+  "4929": "4732",  // Karil's Coif 75 -> Karil's Coif undamaged
+  "4930": "4732",  // Karil's Coif 50 -> Karil's Coif undamaged
+  "4931": "4732",  // Karil's Coif 25 -> Karil's Coif undamaged
+  "4946": "4738",  // Karil's Leatherskirt 100 -> Karil's Leatherskirt undamaged
+  "4947": "4738",  // Karil's Leatherskirt 75 -> Karil's Leatherskirt undamaged
+  "4948": "4738",  // Karil's Leatherskirt 50 -> Karil's Leatherskirt undamaged
+  "4949": "4738",  // Karil's Leatherskirt 25 -> Karil's Leatherskirt undamaged
+  "4940": "4736",  // Karil's Leathertop 100 -> Karil's Leathertop undamaged
+  "4941": "4736",  // Karil's Leathertop 75 -> Karil's Leathertop undamaged
+  "4942": "4736",  // Karil's Leathertop 50 -> Karil's Leathertop undamaged
+  "4943": "4736",  // Karil's Leathertop 25 -> Karil's Leathertop undamaged
+  "4862": "4710",  // Ahrim's Staff 100 -> Ahrim's Staff undamaged
+  "4863": "4710",  // Ahrim's Staff 75 -> Ahrim's Staff undamaged
+  "4864": "4710",  // Ahrim's Staff 50 -> Ahrim's Staff undamaged
+  "4865": "4710",  // Ahrim's Staff 25 -> Ahrim's Staff undamaged
+  "4856": "4708",  // Ahrim's Hood 100 -> Ahrim's Hood undamaged
+  "4857": "4708",  // Ahrim's Hood 75 -> Ahrim's Hood undamaged
+  "4858": "4708",  // Ahrim's Hood 50 -> Ahrim's Hood undamaged
+  "4859": "4708",  // Ahrim's Hood 25 -> Ahrim's Hood undamaged
+  "4874": "4714",  // Ahrim's Robeskirt 100 -> Ahrim's Robeskirt undamaged
+  "4875": "4714",  // Ahrim's Robeskirt 75 -> Ahrim's Robeskirt undamaged
+  "4876": "4714",  // Ahrim's Robeskirt 50 -> Ahrim's Robeskirt undamaged
+  "4877": "4714",  // Ahrim's Robeskirt 25 -> Ahrim's Robeskirt undamaged
+  "4868": "4712",  // Ahrim's Robetop 100 -> Ahrim's Robetop undamaged
+  "4869": "4712",  // Ahrim's Robetop 75 -> Ahrim's Robetop undamaged
+  "4870": "4712",  // Ahrim's Robetop 50 -> Ahrim's Robetop undamaged
+  "4871": "4712",  // Ahrim's Robetop 25 -> Ahrim's Robetop undamaged
+  "25918": "21012",  // Dragon Hunter Crossbow (b) -> Dragon Hunter Crossbow
+  "25916": "21012",  // Dragon Hunter Crossbow (t) -> Dragon Hunter Crossbow
+}
