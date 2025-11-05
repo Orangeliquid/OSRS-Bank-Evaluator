@@ -198,7 +198,7 @@ def display_snapshot_compare():
             st.dataframe(data=styled_df, hide_index=True)
 
             # display top 10 most valuable items in bank
-            st.write("**Top 10 Most Highest Value by Mean**")
+            st.write("**Top 10 Highest Value by Mean**")
 
             st.write(selected_bank_1)
             bank_1_top_10_mean = add_style_to_df(df=df_bank_1.nlargest(10, 'mean_value'))
