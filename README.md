@@ -1,5 +1,5 @@
 # Old School Runescape Bank Evaluator
-Soon to be added
+The OSRS Bank Evaluator allows you to import your bank items into a SQLite database with the press of a button! The web application is displayed via Streamlit and offers three tabs for bank evaluation and analysis. The 'View Bank Snapshots' tab allows you to import, view (via dataframe), and delete your bank snapshots. 'Compare Item Prices' offers the option to fetch and enter current item prices for your selected bank and query price snapshots for items via a search box. Finally, the 'Compare Snapshots' tab beckons you to select two banks from your database to compare and contrast the following metrics: Item quantity, Item prices, Top priced items, Top quantity items, and Bank value.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -217,3 +217,4 @@ Top 10 Highest Quantity of Items dataframe is show for bank 'No Shadow'
 
 
 ## License
+
